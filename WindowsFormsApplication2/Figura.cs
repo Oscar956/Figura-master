@@ -20,7 +20,7 @@ namespace WindowsFormsApplication2
         {
             X = x;
             Y = y;
-            brocha = new SolidBrush(Color.Black);
+            brocha = new SolidBrush(Color.RoyalBlue);
             pluma = new Pen(Color.GreenYellow, 2);
                 
             Random rnd = new Random();
